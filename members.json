@@ -1303,6 +1303,12 @@
 				"end": "2026-06-30",
 				"type": "elected",
 				"affiliation": "Huawei"
+			},
+			{
+				"start": "2026-07-01",
+				"end": "2028-06-30",
+				"type": "elected",
+				"affiliation": "Huawei"
 			}
 		]
 	},
@@ -1368,7 +1374,13 @@
 				"end": "2026-06-30",
 				"type": "elected",
 				"affiliation": "Holopin"
-			}
+			},
+			{
+				"start": "2026-07-01",
+				"end": "2028-06-30",
+				"type": "elected",
+				"affiliation": "Holopin"
+			}	
 		]
 	},
 
@@ -1404,6 +1416,12 @@
 				"type": "elected",
 				"chair": true,
 				"affiliation": "Samsung Electronics Co., Ltd."
+			},
+			{
+				"start": "2026-07-01",
+				"end": "2028-06-30",
+				"type": "elected",
+				"affiliation": "Samsung Electronics Co., Ltd."
 			}
 		]
 	},
@@ -1427,7 +1445,7 @@
 				"start": "2025-07-01",
 				"end": "2027-06-30",
 				"type": "elected",
-				"affiliation": "LY Corporatrion"
+				"affiliation": "LY Corporation"
 			}
 		]
 	},
@@ -1452,6 +1470,18 @@
 				"end": "2027-06-30",
 				"type": "elected",
 				"affiliation": "Tradeverifyd"
+			}
+		]
+	},
+
+	{
+		"name": "Andrew Wafaa",
+		"term": [
+			{
+				"start": "2026-07-01",
+				"end": "2028-06-30",
+				"type": "elected",
+				"affiliation": "ARM Limited"
 			}
 		]
 	}
